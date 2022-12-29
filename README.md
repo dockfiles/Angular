@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/angular)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209974574-7f128a43-1775-4519-bd55-33c4e2455970.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/angular)
 
 ### Angular service
 
@@ -65,7 +65,8 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 
 After the application starts, navigate to `http://localhost:4200` in your web browser.
 
-![page](output.png)
+![image](https://user-images.githubusercontent.com/110657529/209974468-be20a487-40ff-4082-912d-18035fb236a4.png)
+
 
 Stop and remove the container
 
